@@ -1,0 +1,99 @@
+@font-face {
+    font-family: w3e;
+    src: url(../font/w3f.ttf);
+
+}
+
+body {
+    background: url("../img/bg.jpg") no-repeat center fixed;
+    background-size: cover;
+
+}
+
+.w3e {
+    font-family: w3e, sans-serif;
+
+}
+
+.w3r {
+    font-family: "PT Sans", sans-serif;
+
+}
+
+.content-hide {
+    opacity: 0;
+    transition: .9s opacity ease-in-out;
+
+}
+
+.content-visible {
+    opacity: 1;
+
+}
+
+.compass {
+    pointer-events: none;
+    position: fixed;
+    top: -800px;
+    left: -800px;
+    transform: rotate(0deg);
+
+}
+
+.nav-content-visible {
+    opacity: .95;
+
+}
+
+div#characters-img img {
+    width: 100%;
+    min-width: 202px;
+
+}
+
+h3.mt-4.mb-4.text-center {
+    min-height: 66px;
+
+}
+
+.reveal {
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: all 1s ease;
+
+}
+
+.reveal.active {
+    transform: translateY(0);
+    opacity: 1;
+
+}
+
+div#quests-img img {
+    width: 100%;
+    min-width: 200px;
+
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    text-decoration: none;
+
+}
+
+.scale-img {
+    overflow: hidden;
+    transition: 1s;
+
+}
+
+.scale-img:hover {
+    transform: scale(1.1);
+
+}
