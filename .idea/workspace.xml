@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6825f09a-e9bd-445e-a9f2-0aedf4c8028f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/witcher.help" />
+  </component>
+  <component name="ProjectId" id="23ic6vTEIYM7NkEJCDbOz5h3GJr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6825f09a-e9bd-445e-a9f2-0aedf4c8028f" name="Changes" comment="" />
+      <created>1642220176548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642220176548</updated>
+      <workItem from="1642220179091" duration="35000" />
+      <workItem from="1642220232787" duration="306000" />
+      <workItem from="1642220560004" duration="2385000" />
+      <workItem from="1642224047673" duration="9021000" />
+      <workItem from="1642234413936" duration="11066000" />
+      <workItem from="1642294204898" duration="8760000" />
+      <workItem from="1642308076157" duration="18831000" />
+      <workItem from="1642384539492" duration="5716000" />
+      <workItem from="1642396816083" duration="2856000" />
+      <workItem from="1642399876576" duration="2332000" />
+      <workItem from="1642418170445" duration="3828000" />
+      <workItem from="1642425537732" duration="652000" />
+      <workItem from="1642426211082" duration="112000" />
+      <workItem from="1642426352070" duration="124000" />
+      <workItem from="1642426554955" duration="40000" />
+      <workItem from="1642426604922" duration="41000" />
+      <workItem from="1642426655950" duration="451000" />
+      <workItem from="1642427122222" duration="16000" />
+      <workItem from="1642427183977" duration="249000" />
+      <workItem from="1642427477534" duration="8000" />
+      <workItem from="1642427498164" duration="297000" />
+      <workItem from="1642427828542" duration="32000" />
+      <workItem from="1642427869648" duration="24000" />
+      <workItem from="1642427950293" duration="435000" />
+      <workItem from="1642428405509" duration="268000" />
+      <workItem from="1642428690125" duration="13000" />
+      <workItem from="1642428936768" duration="2000" />
+      <workItem from="1642429193393" duration="251000" />
+      <workItem from="1642480966281" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/witcher.help" />
+    </ignored-roots>
+  </component>
+</project>
