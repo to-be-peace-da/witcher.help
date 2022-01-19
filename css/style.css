@@ -58,7 +58,7 @@ h3.mt-4.mb-4.text-center {
 
 .reveal {
     position: relative;
-    transform: translateX(150px);
+    transform: translateX(400px);
     opacity: 0;
     transition: all 1s ease;
 
