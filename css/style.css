@@ -58,7 +58,7 @@ h3.mt-4.mb-4.text-center {
 
 .reveal {
     position: relative;
-    transform: translateY(150px);
+    transform: translateX(150px);
     opacity: 0;
     transition: all 1s ease;
 
@@ -106,4 +106,18 @@ a:hover {
 h4.mt-4.mb-4.text-center {
     min-height: 66px;
 
+}
+
+#quests {
+    padding-top: 70px;
+    margin-top: -70px;
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
+}
+
+#characters {
+    padding-top: 70px;
+    margin-top: -70px;
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
 }
