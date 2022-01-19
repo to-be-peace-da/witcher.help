@@ -4,6 +4,13 @@
 
 }
 
+html{
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+
+}
+
 body {
     background: url("../img/bg.jpg") no-repeat center fixed;
     background-size: cover;
