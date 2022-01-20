@@ -4,12 +4,12 @@
 
 }
 
-html{
-    width: 100%;
-    max-width: 100%;
-    overflow-x: hidden;
+/*html{*/
+/*    width: 100%;*/
+/*    max-width: 100%;*/
+/*    overflow-x: hidden;*/
 
-}
+/*}*/
 
 body {
     background: url("../img/bg.jpg") no-repeat center fixed;
@@ -65,7 +65,7 @@ h3.mt-4.mb-4.text-center {
 
 .reveal {
     position: relative;
-    transform: translateX(300px);
+    transform: translateY(300px);
     opacity: 0;
     transition: all 1s ease;
 
@@ -120,6 +120,7 @@ h4.mt-4.mb-4.text-center {
     margin-top: -70px;
     -webkit-background-clip: content-box;
     background-clip: content-box;
+
 }
 
 #characters {
@@ -127,4 +128,5 @@ h4.mt-4.mb-4.text-center {
     margin-top: -70px;
     -webkit-background-clip: content-box;
     background-clip: content-box;
+
 }
