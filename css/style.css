@@ -94,6 +94,11 @@ a:hover {
 
 }
 
+a:visited {
+    color: black;
+
+}
+
 .scale-img {
     overflow: hidden;
     transition: 1s;
@@ -115,7 +120,7 @@ h4.mt-4.mb-4.text-center {
 
 }
 
-#quests {
+#tp-to-quests {
     padding-top: 70px;
     margin-top: -70px;
     -webkit-background-clip: content-box;
