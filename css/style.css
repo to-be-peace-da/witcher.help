@@ -137,6 +137,7 @@ h4.mt-4.mb-4.text-center {
 }
 
 .about-characters {
-    max-width: 100%;
+    width: 100%;
+    max-width: 50%;
 
 }
